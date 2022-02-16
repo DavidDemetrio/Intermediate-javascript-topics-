@@ -1,0 +1,8 @@
+# Ignore Mac System field
+.DS_store
+# Ignore node_modules folder
+node_modules
+# Ignore package-lock.json
+package-lock.json
+# Ignore package.json
+package.json
