@@ -1,0 +1,1 @@
+// Destructuring ademas de extraer el valor, crea la variable.

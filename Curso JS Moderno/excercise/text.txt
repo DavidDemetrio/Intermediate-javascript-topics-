@@ -1,0 +1,8 @@
+1.- iteradores.
+2.- estructuras de control
+3.- variables.
+4.- strings
+5.Numbers
+6. Objetos
+7.Arrays
+8.function

@@ -1,0 +1,22 @@
+Programacion orientada a objetos en javascript
+-Con funciones (object constructor)
+	function Personas(persona, edad) {
+		this.persona = persona;
+		this.edad = edad;
+	}
+
+
+const p1 = new Personas();
+
+
+CONTEXT: IF you come to Java, C# the class in Javascript isn´t so complete as Java or C#.
+
+Javasript revolution, 7 years ago. Started with clases but the sintaxt appear to be how class
+but motor javascript take these class how if they are object constructor and their methods how
+prototype.
+
+
+Class contains { attributes, constructors, methods }
+
+
+The clases contains methos public, private and protected
